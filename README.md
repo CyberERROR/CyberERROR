@@ -1,23 +1,131 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=0)
+<!-- Language Switch -->
+<a href="#russian"><img src="https://img.shields.io/badge/🇷🇺_Русский-0A1929?style=for-the-badge" /></a>
+<a href="#english"><img src="https://img.shields.io/badge/🇬🇧_English-1B2B44?style=for-the-badge" /></a>
 
-# 👋 **BRO** | CyberERROR
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,50:1B2B44,100:0A1929&height=120&section=header" width="100%" />
 
-### ✨ Developer & Creative Technologist
+<!-- Profile Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BRO+%7C+CyberERROR" alt="Profile Title" />
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=435&lines=Clean+Code+Enthusiast;Automation+%26+Bot+Development;Modern+Web+Solutions;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h3 style="color: #7B92B2;">⚡ Developer & Creative Technologist</h3>
+
+---
 
 </div>
 
-<br>
+<a name="russian"></a>
 
-## 🎨 About Me
+<div align="center">
+
+## 🇷🇺 О РАЗРАБОТЧИКЕ
+
+</div>
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "BRO"
+        self.role = "Разработчик & Технический Креатор"
+        self.focus = ["Элегантность", "Эффективность", "Инновации"]
+        self.mindset = "Меньше — значит больше"
+    
+    def create(self):
+        return "Красивые решения через чистый код"
+```
+
+<div align="center">
+
+### 💎 ТЕХНОЛОГИИ
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Языки**
+
+<img src="https://img.shields.io/badge/Python-0A1929?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-1B2B44?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0A1929?style=for-the-badge&logo=javascript&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+**Разметка**
+
+<img src="https://img.shields.io/badge/HTML5-1B2B44?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0A1929?style=for-the-badge&logo=css3&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+**Инструменты**
+
+<img src="https://img.shields.io/badge/Git-1B2B44?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-0A1929?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-1B2B44?style=for-the-badge&logo=telegram&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+### 🎯 КОМПЕТЕНЦИИ
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🤖 Боты**
+
+Автоматизация Telegram<br/>
+Умные рабочие процессы
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Веб**
+
+Современные интерфейсы<br/>
+Бэкенд логика
+
+</td>
+<td align="center" width="33%">
+
+**⚡ Автоматизация**
+
+Оптимизация процессов<br/>
+Эффективные скрипты
+
+</td>
+</tr>
+</table>
+
+### 📬 КОНТАКТЫ
+
+<a href="https://github.com/CyberERROR"><img src="https://img.shields.io/badge/GitHub-0A1929?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://t.me/CyberERROR"><img src="https://img.shields.io/badge/Telegram-1B2B44?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+---
+
+</div>
+
+<a name="english"></a>
+
+<div align="center">
+
+## 🇬🇧 ABOUT DEVELOPER
+
+</div>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "BRO"
+        self.role = "Developer & Creative Technologist"
         self.focus = ["Elegance", "Efficiency", "Innovation"]
         self.mindset = "Less is more"
     
@@ -25,83 +133,81 @@ class Developer:
         return "Beautiful solutions through clean code"
 ```
 
-<br>
-
-## 💎 Tech Stack
-
 <div align="center">
 
-### Languages
+### 💎 TECH STACK
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Styling & Markup
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Tools & Frameworks
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br>
-
-## 🎯 Core Competencies
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="200">
-<br>
+<td align="center" width="33%">
 
-**🤖 Bot Development**
+**Languages**
 
-Telegram automation<br>Smart workflows
-
-</td>
-<td align="center" width="200">
-<br>
-
-**🌐 Web Development**
-
-Modern interfaces<br>Backend logic
+<img src="https://img.shields.io/badge/Python-0A1929?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-1B2B44?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0A1929?style=for-the-badge&logo=javascript&logoColor=white" />
 
 </td>
-<td align="center" width="200">
-<br>
+<td align="center" width="33%">
 
-**⚡ Automation**
+**Markup**
 
-Process optimization<br>Efficient scripting
+<img src="https://img.shields.io/badge/HTML5-1B2B44?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0A1929?style=for-the-badge&logo=css3&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-1B2B44?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-0A1929?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-1B2B44?style=for-the-badge&logo=telegram&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-<br>
+### 🎯 CORE COMPETENCIES
 
-## 📬 Connect
+<table>
+<tr>
+<td align="center" width="33%">
 
-<div align="center">
+**🤖 Bot Development**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberERROR)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CyberERROR)
+Telegram automation<br/>
+Smart workflows
 
-</div>
+</td>
+<td align="center" width="33%">
 
-<br>
+**🌐 Web Development**
 
-<div align="center">
+Modern interfaces<br/>
+Backend logic
+
+</td>
+<td align="center" width="33%">
+
+**⚡ Automation**
+
+Process optimization<br/>
+Efficient scripting
+
+</td>
+</tr>
+</table>
+
+### 📬 CONNECT
+
+<a href="https://github.com/CyberERROR"><img src="https://img.shields.io/badge/GitHub-0A1929?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://t.me/CyberERROR"><img src="https://img.shields.io/badge/Telegram-1B2B44?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 ---
 
-*Crafted with attention to detail* ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,50:1B2B44,100:0A1929&height=100&section=footer" width="100%" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<sub>✨ Crafted with attention to detail</sub>
 
 </div>

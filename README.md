@@ -10,15 +10,17 @@
 
 ## 📋 About Me
 
-```yaml
-name: "CyberERROR"
-role: "Developer"
-focus:
-  - Software Engineering
-  - System Architecture
-  - Automation
-location: "🌍 Remote"
-status: "Building & Learning"
+```python
+class Developer:
+    def __init__(self):
+        self.name = "BRO"
+        self.languages = ["Python", "PHP", "JavaScript"]
+        self.styling_markup = ["CSS", "HTML5"]
+        self.tools_frameworks = ["Git", "Linux", "Telegram API"]
+        self.focus = ["Bot Development", "Web Development", "Automation"]
+    
+    def create(self):
+        return "Beautiful solutions through clean code"
 ```
 
 ---
@@ -27,12 +29,19 @@ status: "Building & Learning"
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### Languages
 ![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+### Styling & Markup
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
@@ -44,10 +53,9 @@ status: "Building & Learning"
 
 | Area | Skills |
 |:---:|:---|
-| **Backend** | API Development, Database Design, Server Management |
-| **Frontend** | Web Interfaces, Responsive Design, UI/UX |
-| **DevOps** | Automation, CI/CD, Infrastructure |
-| **Tools** | Version Control, Project Management, Testing |
+| **Bot Development** | Telegram Bots, Automation Scripts, API Integration |
+| **Web Development** | Full Stack Development, Responsive Design, UI/UX |
+| **Automation** | Process Automation, CI/CD, Infrastructure Management |
 
 </div>
 
@@ -57,10 +65,10 @@ status: "Building & Learning"
 
 ### 📫 Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cybererror)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberERROR)
+[![Telegram](https://img.shields.io/badge/Telegram-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brolzt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberERROR)
 
-<br>
+---
 
 *Crafted with attention to detail*
 

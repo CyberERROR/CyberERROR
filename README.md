@@ -1,84 +1,107 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CyberERROR&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<div align="center">
 
-<h1 align="center">👋 Привет, я BRO (CyberERROR)</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=0)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bot+Developer;Automation+Specialist;Always+learning+new+things" alt="Typing SVG" />
-</p>
+# 👋 **BRO** | CyberERROR
 
----
+### ✨ Developer & Creative Technologist
 
-## 🚀 О себе
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=435&lines=Clean+Code+Enthusiast;Automation+%26+Bot+Development;Modern+Web+Solutions;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+## 🎨 About Me
 
 ```python
-class CyberERROR:
+class Developer:
     def __init__(self):
         self.name = "BRO"
-        self.role = "Developer"
-        self.languages = ["Python", "PHP", "CSS"]
-        self.interests = ["Automation", "Bots", "Web Development", "VPN Solutions"]
+        self.focus = ["Elegance", "Efficiency", "Innovation"]
+        self.mindset = "Less is more"
     
-    def say_hi(self):
-        print("Спасибо, что заглянули на мой профиль!")
-
-me = CyberERROR()
-me.say_hi()
+    def create(self):
+        return "Beautiful solutions through clean code"
 ```
 
+<br>
+
+## 💎 Tech Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Styling & Markup
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Tools & Frameworks
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br>
+
+## 🎯 Core Competencies
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<br>
+
+**🤖 Bot Development**
+
+Telegram automation<br>Smart workflows
+
+</td>
+<td align="center" width="200">
+<br>
+
+**🌐 Web Development**
+
+Modern interfaces<br>Backend logic
+
+</td>
+<td align="center" width="200">
+<br>
+
+**⚡ Automation**
+
+Process optimization<br>Efficient scripting
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📬 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberERROR)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CyberERROR)
+
+</div>
+
+<br>
+
+<div align="center">
+
 ---
 
-## 💻 Технологии и инструменты
+*Crafted with attention to detail* ✨
 
-### 🎯 Основные языки программирования
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-### 🛠️ Технологический стек
-
-<img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
----
-
-## 🎯 Навыки и экспертиза
-
-```yaml
-languages:
-  primary:
-    - Python: "Bot Development, Automation, Scripts"
-    - PHP: "Web Development, Backend, APIs"
-    - CSS: "Styling, UI/UX, Responsive Design"
-
-specialization:
-  - Telegram Bot Development
-  - Web Automation
-  - VPN Solutions
-  - Backend Development
-  - API Integration
-
-current_focus:
-  - Improving coding skills
-  - Building useful automation tools
-  - Creating efficient bots
-```
-
----
-
-## 🌟 Интересные факты
-
-- 🔭 Работаю над различными проектами автоматизации
-- 🌱 Изучаю новые технологии и подходы к разработке
-- 💡 Люблю создавать ботов и автоматизировать процессы
-- ⚡ Интересный факт: большинство моих проектов связаны с Telegram и автоматизацией!
-
----
-
-## 📫 Связаться со мной
-
-<p>
-<a href="https://github.com/CyberERROR"><img src="https://img.shields.io/badge/GitHub-CyberERROR-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=CyberERROR&color=blue" alt="Просмотры профилей" />
-</p>
+</div>

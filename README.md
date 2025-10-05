@@ -68,8 +68,4 @@ class Developer:
 [![Telegram](https://img.shields.io/badge/Telegram-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brolzt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberERROR)
 
----
-
-*Crafted with attention to detail*
-
 </div>
